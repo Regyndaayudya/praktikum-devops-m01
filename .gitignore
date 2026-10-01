@@ -1,5 +1,7 @@
 .venv/
-__pycache__/
+__pyache__/
 *.pyc
 .env
 *.log
+app.log
+ringkasan-log.txt
