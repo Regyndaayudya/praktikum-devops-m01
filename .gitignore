@@ -5,3 +5,4 @@ __pyache__/
 *.log
 app.log
 ringkasan-log.txt
+.env
